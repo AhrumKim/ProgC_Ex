@@ -1,0 +1,4 @@
+﻿  seventh.cpp
+C:\1.Lecture\23_KDT_ICN\C_Prog_Lyo\sixth\seventh.cpp(5,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\1.Lecture\23_KDT_ICN\C_Prog_Lyo\sixth\seventh.cpp(7,6): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+LINK : fatal error LNK1168: C:\1.Lecture\23_KDT_ICN\C_Prog_Lyo\sixth\x64\Debug\sixth.exe을(를) 쓰기용으로 열 수 없습니다.

@@ -1,15 +1,11 @@
-#include <stdio.h>
+#include<stdio.h>
 
-int main() {
-	
+void main()
+{
+	int a = 99;
 
-	int a;
-	float b;
-
-	a = 123.45;
-	b = 200;
-
-	printf("a의 값 ==> %d \n", a);
-	printf("b의 값 ==> %f \n", b);
+	if (a > 100)
+		printf("a는 100보다 큼\n");
+	    printf("나는 출력될까요?");
 
 }
